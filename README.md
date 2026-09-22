@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/MLopez55">UNCC CS Student</a>, <a href="(https://www.linkedin.com/in/michael-lopez-298549413/)">Student</a>
+<h1>Hi, I'm Michael! 
   
 <h2>👨‍💻 Computer Science Projects:</h2>
 
